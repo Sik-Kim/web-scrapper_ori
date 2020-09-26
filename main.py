@@ -8,3 +8,4 @@ jobs = so_jobs + indeed_jobs
 save_to_file(jobs)
 
 # CSV(Comma Separated Values) 파일로 변환
+
